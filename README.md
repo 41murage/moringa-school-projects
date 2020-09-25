@@ -16,7 +16,11 @@ connect with me
 
 ## what is citizen power?
 
-citizen power is an ### online establishment
+citizen power is an (online establishment) that supports third world countries by...
+
+* emporing their youth to exploit their creativity with the main aim of decreasing unemployment rate 
+* to tarnish and remove the political cleche of corruption and removing any leaders whos main aim of entering office is on greedy means 
+* support sports on a higher level so as to represent 
 
 
 every first world country has that finesse or leadership maybe even plan that makes it lead decreasing poverty rates boosting their economy to surpase others 
