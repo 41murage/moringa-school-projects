@@ -21,7 +21,10 @@ citizen power is an (online establishment),(application) that supports African c
 * support sports on a higher level so as to represent their countries hence increasing patriotism 
 * aim of ending world hunger begins with third world countries
 * promote african music to peak their boaders for global recognition 
+# my team 
+the developers are jack ashley and me
 
+* in partnership with UN,AU   
 ### more about african power
 every first world country has that finesse or leadership maybe even plan that makes it lead decreasing poverty rates boosting their economy to surpase others 
 
@@ -56,4 +59,30 @@ the set up for the app has never beeen simpler .one has to have access to the in
  * we added a feature people can create a group on the app where they can discuss issues that disturb them around their community 
  ## the best feature so far 
  * we used on vital feature that can revolutionise african countries
+ ###### online voting 
+ a clear and transparent way of voting in the comfort of your home 
+ https://images.app.goo.gl/s6aiyKfGcYktTDJB8
+ ##### incase of any issue 
+ incase of any issue here is the helpline number +23477744555 
  
+ #MIT License
+
+Copyright (c) [year] [fullname]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
