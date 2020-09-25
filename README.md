@@ -1,5 +1,7 @@
 # citizen power
 
+## a little about the developer
+
 ###
 
 hi there im edwin wokabi a coder web developer and student at the same time
