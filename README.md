@@ -23,4 +23,8 @@ connect with me
 ## what is citizen power?
 every first world country has that finesse or leadership maybe even plan that makes it lead decreasing poverty rates boosting their economy to surpase others 
 
-for examplee france  <which has a beautiful aesthetic also has very fascinating economical growth> 
+for example france which has a beautiful aesthetic also has very fascinating economical growth 
+
+here is a very good explanation on the difference of first world countries and third world countries
+
+https://youtu.be/1yKvwOydZFw
