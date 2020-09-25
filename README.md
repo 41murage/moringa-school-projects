@@ -17,3 +17,5 @@ hi there im edwin wokabi a coder web developer and student at the same time
 connect with me 
 
 (+254793866444)
+
+##what is citizen power?
