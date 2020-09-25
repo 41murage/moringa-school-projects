@@ -21,3 +21,4 @@ connect with me
 (+254793866444)
 
 ## what is citizen power?
+every first world country has that finesse or leadership maybe even plan that makes it lead decreasing poverty rates boosting their economy to surpase others 
