@@ -5,9 +5,7 @@
 ###
 
 * hi there im edwin wokabi a coder web developer and student at the same time
-
 * im currently in high school my 2020 goal is to learn something new everyday 
-
 * fun fact i love to draw and paint
 
 connect with me 
@@ -20,7 +18,8 @@ citizen power is an (online establishment) that supports third world countries b
 
 * emporing their youth to exploit their creativity with the main aim of decreasing unemployment rate 
 * to tarnish and remove the political cleche of corruption and removing any leaders whos main aim of entering office is on greedy means 
-* support sports on a higher level so as to represent 
+* support sports on a higher level so as to represent their countries hence increasing patriotism 
+* aim of ending world hunger begins with third world countries
 
 
 every first world country has that finesse or leadership maybe even plan that makes it lead decreasing poverty rates boosting their economy to surpase others 
